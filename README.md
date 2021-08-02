@@ -2,7 +2,7 @@ Made this as a birthday present for my girlfriend during lockdown. Small attempt
 
 
 
-URL: https://satyakiran29.github.io/HBPA/index.html
+URL: https://satyakiran29.github.io/HBDA
 
 Technology Used: Javascript, CSS3, HTML5
 
