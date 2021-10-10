@@ -48,7 +48,6 @@
 **Note** : Use Google Chrome
 
 #
-
 ## To setup the project on your local machine:
 
 1. Click on `Fork`.
@@ -57,9 +56,17 @@
 
 #
 
+## What Contributions are accpected?:
+
+- [Check Issues ](https://github.com/satyakiran29/Resume-Builder/issues)
+- or Create your own issue
+
+#
+
+
 ## To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/Resume-Builder/issues). 
+1. Choose any open issue from [here](https://github.com/satyakiran29/Resume-Builder/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
