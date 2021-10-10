@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/github/license/satyakiran29/Resume-Builder"/>
 <img src="https://img.shields.io/badge/Contributors-Welcome-orange"/>
 <img src="https://img.shields.io/badge/Hacktoberfest-Accpected-yellowgreen"/>
+
 </p>
 
 #
@@ -17,6 +18,7 @@
 ###### Live Demo : https://satyakiran29.github.io/Resume-Builder/
 
 ###### Technologies: HTML, CSS, JavaScript
+<img align='right' src="./img/resume-1.jpeg" width="230">
 
 #
 
