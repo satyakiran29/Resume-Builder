@@ -31,6 +31,14 @@
 				<button id="defaultTemplateBtn" class="btn btn-block btn-danger" onclick="template('default');">Use official NITW template</button>
 				<button id="customTemplateBtn" class="btn btn-block btn-default" onclick="template('custom');">Use custom template</button>
 				<h5>
+					Name Colour
+					<div class="toggle-button">
+						<div class="toggle-option selected" onclick="nameColour('#000')" id="titleBlack">Black</div>
+						<div class="toggle-option" onclick="nameColour('#0DA3FF')" id="titleBlue">Blue</div>
+						<div class="toggle-option" onclick="nameColour('green')" id="titleGreen">Green</div>
+					</div>
+				</h5>
+				<h5>
 					Semester
 					<div class="toggle-button">
 						<div class="toggle-option" data-toggle="minor" id="minorShow">Show</div>
