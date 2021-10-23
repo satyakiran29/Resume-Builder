@@ -354,3 +354,8 @@ function getSelectionContainerElement()
 function insertAfter(referenceNode,newNode) {
     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
 }
+
+function nameColour(color) {
+	const name = document.getElementById("contentName");
+	name.style.color = color;
+}
