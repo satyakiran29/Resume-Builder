@@ -16,7 +16,7 @@
 
 #
 
-###### Live Demo : https://satyakiran29.github.io/Resume-Builder/
+###### Live Demo : https://resumebuildergo.netlify.app/
 
 ###### Technologies: HTML, CSS, JavaScript
 <img align='right' src="./img/resume-1.jpeg" width="230">
